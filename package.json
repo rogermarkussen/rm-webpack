@@ -1,7 +1,7 @@
 {
   "name": "rm-webpack",
   "description": "Presets for setting up webpack with hotloading react and ES6(2015) using Babel.",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "author": "Roger Markussen",
   "dependencies": {
     "extract-text-webpack-plugin": "^0.5.0",
